@@ -23,5 +23,8 @@
   dani33/bisite00
 sergio11/bisite00
 dani33/bisite00
+
+4. http://192.168.9.115:8080/ejercicio3-1.0-SNAPSHOT/home
+5. http://192.168.9.115:8080/ejercicio3-1.0-SNAPSHOT/admin/login
     
     
