@@ -18,5 +18,10 @@
   
   2. Create Database  My Sql docker hub in local to connect the application.
   use the DB credentials -  username/ password = ecommerce/ecommerce
+  
+  3. Below username and passwords for login
+  dani33/bisite00
+sergio11/bisite00
+dani33/bisite00
     
     
